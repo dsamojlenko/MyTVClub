@@ -1,0 +1,110 @@
+﻿#empire, 
+#content_header,
+.tabs,
+.bottom-section,
+#sidebar,
+#footer-wrapper,
+#footer,
+#messaging,
+.more-tv-club,
+.promotion_frame,
+#tool_holder,
+#outbrain,
+.tools_horizontal,
+#header_masterslot_wrapper,
+#nav,
+#subnav,
+#my-shows
+{
+	display: none !important;
+}
+
+#mytvclub-contents,
+#alltvclub-contents,
+#populartvclub-contents 
+{
+	display: block !important;
+}
+
+#mytvclub-contents {
+	float: left !important;	
+}
+
+#alltvclub-contents, #populartvclub-contents {
+	float: right !important;	
+}
+
+#mytvclub-contents .main-featured {
+	
+}
+
+.main-featured {
+	display: none !important;	
+}
+
+.right-featured {
+	width: 600px !important;	
+}
+
+.right-featured>div {
+	overflow: visible !important;
+	height: auto !important;	
+}
+
+.right-featured h3 {
+	font: normal bold 15px/15px helvetica, arial, sans-serif !important;
+	border-top: 2px solid black;
+	border-bottom: 2px solid black;
+	padding: 10px 0;
+	background-color: #666;
+	color: #e4e4e4;
+}
+
+.right-featured li a {
+	font-size: 15px !important;
+	line-height: 1.5em !important;
+	overflow: visible !important;
+	overflow-x: visible !important;
+	overflow-y: visible !important;
+	white-space: normal !important;
+}
+
+.right-featured li {
+	width: auto !important;
+}
+
+#wrapper {
+	background: none !important;
+}
+
+#inner_wrapper {
+	width: 650px !important;	
+}
+
+#main {
+	width: 650px !important;	
+}
+
+#content  {
+	padding: 0 !important;
+	width: 625px !important;
+	border: none !important;
+}
+
+
+div.right-featured {
+	
+}
+
+#article_wrapper {
+	width: auto !important;	
+}
+
+.article_body {
+	padding-top: 20px !important;	
+}
+
+.article_body p {
+	font-size: 16px !important;
+	line-height: 1.5em !important;	
+}
